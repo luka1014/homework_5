@@ -1,0 +1,62 @@
+/* header */
+body{
+    font-family: "PT Sans", sans-serif;
+}
+header {
+    width: 1440px;
+    margin: auto;
+    background-color: #2A9D8F;
+    padding: 38px 130px;
+
+}
+
+.logo-link {
+    display: inline-block;
+    width: 46px;
+    height: 46px;
+    vertical-align: middle;
+    margin-right: 682px;
+}
+
+.logo-icon {
+    width: 100%;
+    height: 100%;
+}
+
+.header-nav {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.header-li {
+    display: inline-block;
+}
+
+.m-right {
+    margin-right: 72px;
+}
+
+.active {
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 32px;
+    line-height: 32px;
+    letter-spacing: 0.5%;
+    text-align: center;
+    text-shadow: 4px 4px 4px #000000CC;
+    color: #FFFFFF;
+    ;
+
+
+
+}
+
+.inactive {
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 32px;
+    line-height: 32px;
+    letter-spacing: 0.5%;
+    text-align: center;
+    color: #FFFFFF;
+}
