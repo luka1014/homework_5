@@ -126,3 +126,41 @@ h1 {
 
 
 }
+/* footer */
+footer{
+    width: 1440px;
+    margin: auto;
+    background-color: #2A9D8F;
+}
+.footer-title{
+
+font-weight: 400;
+
+font-size: 32px;
+
+line-height: 40px;
+letter-spacing: 0px;
+text-align: center;
+text-decoration: underline;
+text-underline-offset: 5px;
+color: #FFFFFF;
+padding-top: 38px;
+text-align: middle;
+
+}
+.footer-li{
+    display: inline-block;
+    margin-bottom: 38px;
+    margin-top: 39px;
+
+
+}
+.mar-rig{
+    
+    margin-right: 27px;
+}
+.footer-ul{
+    margin-right: 636px;
+    margin-left: 636px;
+
+}
